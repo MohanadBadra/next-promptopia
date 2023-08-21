@@ -1,4 +1,15 @@
+#Promptopia
+Users & Authentication
+CRUD Prompts
+profiles
+Search [by the prompt text, hashtags or users]
+
 By| Mohanad Badra [Web Developer]
+
+![image](https://github.com/MohanadBadra/next-promptopia/assets/78423601/809f3500-ba59-4513-b307-4acb04d317ee)
+![image](https://github.com/MohanadBadra/next-promptopia/assets/78423601/2aefe2a9-8b08-4ba6-a7b9-6a89c7bbf520)
+![image](https://github.com/MohanadBadra/next-promptopia/assets/78423601/f80b35a4-4a27-4ca7-ae19-467c3fd0cb1a)
+
 
 First, run the development server:
 
