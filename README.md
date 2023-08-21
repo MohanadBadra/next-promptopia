@@ -1,5 +1,5 @@
-#Promptopia
-Users & Authentication
+# Promptopia
+\nUsers & Authentication
 CRUD Prompts
 profiles
 Search [by the prompt text, hashtags or users]
