@@ -1,8 +1,12 @@
 # Promptopia
-\nUsers & Authentication
+Users & Authentication
+
 CRUD Prompts
+
 profiles
+
 Search [by the prompt text, hashtags or users]
+
 
 By| Mohanad Badra [Web Developer]
 
